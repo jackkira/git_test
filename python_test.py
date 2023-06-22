@@ -1,8 +1,8 @@
-# import
+# impor
 import pandas as pd
 
-# read df
+# read d
 df = pd.read_csv('C:\Users\Jaydeep  Rupala\Desktop\emp.csv')
 
-# Print df head
+# Print df hea
 print(df.head())
