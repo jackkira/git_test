@@ -5,4 +5,4 @@ import pandas as pd
 df = pd.read_csv('C:\Users\Jaydeep  Rupala\Desktop\emp.csv')
 
 # Print df head
-print(df.head())
+print(df.head(3))
